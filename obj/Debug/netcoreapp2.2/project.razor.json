@@ -1,0 +1,18 @@
+{
+  "FilePath": "c:\\Users\\note_escola\\Documents\\IEC\\exercicio02gateway\\Gateway_private\\Gateway.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "Gateway",
+  "Documents": []
+}
